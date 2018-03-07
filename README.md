@@ -24,7 +24,7 @@ This scipt contains both training and validation process. However, validation pa
 Now it focuses on visulizing the clustering results. So one or two images can be tested to check the performance. 
 * `loss_function.py`<br>
 Implementation of the discriminative loss function.
-* `clustering.py`
+* `clustering.py`<br>
 Implementation of post-processing part. 
 * `misc.py`
 * `utils.py`
