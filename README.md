@@ -26,7 +26,6 @@ Now it focuses on visulizing the clustering results. So one or two images can be
 Implementation of the discriminative loss function.
 * `clustering.py`<br>
 Implementation of post-processing part. 
-* `misc.py`
-* `utils.py`
+* `utils`
 
 ## Results
