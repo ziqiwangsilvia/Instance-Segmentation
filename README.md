@@ -1,3 +1,4 @@
+The code cannot be released right now. Hopefully it will be available in July. 
 # Instance-Segmentation with discriminative loss function (Pytorch)
 
 This work reproduces the method [Semantic Instance Segmentation with a Discriminative Loss Function](https://arxiv.org/abs/1708.02551) in Pytorch.
